@@ -31,7 +31,6 @@ section {
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
-    margin-bottom: 3rem; /* Espaçamento abaixo de cada seção */
 }
 
 /* Estiliza os inputs dentro das seções */
@@ -177,4 +176,30 @@ footer {
     .button-container {
         margin-right: 20px; /* Espaço à direita */
     }
+    
 }
+    
+
+    ul {
+        all: unset;
+        list-style: none;
+        
+
+    }
+
+    
+
+    h2 {
+        color: #ffffff;
+        font-size: 28px;
+
+    }
+
+
+
+    ul li a {
+        color: #ffffff;
+        font-size: 18px;
+        
+
+    }
